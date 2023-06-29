@@ -119,6 +119,12 @@ body{
     font-weight: 600;
     text-align: center;
 }
+@media only screen and (max-width:720px){
+    .box{
+        width: 90%; 
+    }
+}
+
 
 .description{
     font-weight: 700;
